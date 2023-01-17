@@ -13,4 +13,4 @@ Test the code with:
 ![Meta Advanced React Course - Final Project [complete grade]](https://github.com/Rghaf/Meta-Advanced-React-Course/blob/master/Screenshot%20from%202023-01-17%2023-12-39.png)
 
 
-Hope this will be useful for your React and Front-end development learning journey!
+Hope this be useful for your React and Front-end development learning journey!
